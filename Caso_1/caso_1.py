@@ -31,3 +31,5 @@ while cod != 0:
 
 #Salida
 print("Cantidad de estudiante que reprobaron la materia: " + str(reprobados))
+
+print("Fin")

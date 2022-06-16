@@ -20,3 +20,5 @@ while n != 0:
 #Salida
 print("Se ingresaron " + str(par) + " números pares")
 print("Se ingresaron " + str(impar) + " números impares")
+
+print("Fin")
